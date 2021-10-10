@@ -6,6 +6,7 @@ This code package is based on the system model and detection algorithms presente
 
 
 [R1]. T. Thaj and E. Viterbo, "Orthogonal Time Sequency Multiplexing Modulation," 2021 IEEE Wireless Communications and Networking Conference (WCNC), 2021, pp. 1-7, doi: 10.1109/WCNC49053.2021.9417451.
+
 [R2]. T. Thaj, E. Viterbo and Y. Hong, "Orthogonal Time Sequency Multiplexing Modulation: Analysis and Low-Complexity Receiver Design," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2021.3088479.
 
 
